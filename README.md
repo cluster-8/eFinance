@@ -2,14 +2,14 @@
 
 ## 📑 Tabela de Conteúdo
 
-* [Desafio]()
-* [Projeto]()
-* [Planejamento]()
-* [Product Backlog]()
-* [Protótipo]()
-* [Códigos]()
-* [Tecnologias]()
-* [Equipe]()
+* [Desafio](https://github.com/cluster-8/eFinance#-desafio)
+* [Projeto](https://github.com/cluster-8/eFinance#-projeto)
+* [Planejamento](https://github.com/cluster-8/eFinance#-planejamento)
+* [Product Backlog](https://github.com/cluster-8/eFinance#-product-backlog)
+* [Protótipo](https://github.com/cluster-8/eFinance#-protótipo)
+* [Códigos](https://github.com/cluster-8/eFinance#-códigos)
+* [Tecnologias](https://github.com/cluster-8/eFinance#-tecnologias)
+* [Equipe](https://github.com/cluster-8/eFinance#-equipe)
 
 ## 📌 Desafio
 
@@ -46,23 +46,23 @@ Acesse a branch referente a entrega clicando no item da coluna 'Sprints/Entregas
 
 ---
 
-### 📃 Product Backlog
+## 📃 Product Backlog
 
 * [Documento PDF]()
 
-### 💻 Protótipo
+## 💻 Protótipo
 
 Acesse o link para visualizar:
 
 * [Protótipo Figma]()
 
-### 📃 Códigos
+## 📃 Códigos
 
 * [Código Frontend](https://github.com/cluster-8/eFinance-front)
 * [Código Backend](https://github.com/cluster-8/eFinance-api)
 * [OpenData Scrapper](https://github.com/cluster-8/eFinance-odata-scrapper)
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 Para a construção do projeto, estão sendo usadas as seguintes ferramentas:
 
@@ -72,7 +72,7 @@ Para a construção do projeto, estão sendo usadas as seguintes ferramentas:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   
-### 👨‍💻 Equipe
+## 👨‍💻 Equipe
 
 | Aluno(a)              | Função             | GitHub                                                              | LinkedIn                                                                                          |
 | --------------------- | ------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |                               

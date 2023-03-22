@@ -47,7 +47,7 @@ Acesse a branch referente a entrega clicando no item da coluna 'Sprints/Entregas
 
 ## 📃 Product Backlog
 
-* [Documento PDF]()
+* [Documento PDF](https://github.com/cluster-8/eFinance/blob/main/docs/v01_c4e_eFinance_-_Product_Backlog.pdf)
 
 ## 💻 Protótipo
 

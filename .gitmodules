@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/cluster-8/eFinance-api
+[submodule "odata-scrapper"]
+	path = odata-scrapper
+	url = https://github.com/cluster-8/eFinance-odata-scrapper

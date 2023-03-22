@@ -44,7 +44,6 @@ Acesse a branch referente a entrega clicando no item da coluna 'Sprints/Entregas
 |         [`Sprint 4`]()          | US05 - Histórico de Variação de Tarifas e Tendência | 15/05/2023 a 04/06/2023 |    🚧     |
 |     `Feira de Soluções`     |   Apresentação dos vídeos criados pelas equipes   |      13/06/2023 a 14/06/2023       |    🚧     |
 
----
 
 ## 📃 Product Backlog
 

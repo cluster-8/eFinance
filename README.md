@@ -75,7 +75,6 @@ Para a construção do projeto, estão sendo usadas as seguintes ferramentas:
 
 | Aluno(a)              | Função             | GitHub                                                              | LinkedIn                                                                                          |
 | --------------------- | ------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |                               
-| **Ana Paula S.O**         | _Developer Team_   | [![](https://bit.ly/3f9Xo0P)](https://github.com/AnaPaulaSOliveira) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/ana-paula-santos-de-oliveira-237a401ab) |
 | **Eduarda Giudice**           | _Scrum Master_     | [![](https://bit.ly/3f9Xo0P)](https://github.com/EduardaGiudice)    | ![](https://bit.ly/2P1ZogM)     |
 | **Guilherme Garcia**         | _Developer Team_   | [![](https://bit.ly/3f9Xo0P)](https://github.com/guilherme4garcia) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/guilherme-garcia-dev?original_referer=https%3A%2F%2Fgithub.com%2F) |
 | **Hariel Thums**      | _Developer Team_ | [![](https://bit.ly/3f9Xo0P)](https://github.com/HarielThums)       | [![](https://bit.ly/2P1ZogM)](https://bit.ly/3f9bjUH)                                             |

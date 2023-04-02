@@ -5,6 +5,7 @@
 * [Challenge](https://github.com/cluster-8/eFinance#-challenge)
 * [Project](https://github.com/cluster-8/eFinance#-project)
 * [Planning](https://github.com/cluster-8/eFinance#-planning)
+* [Prioritized User Stories](https://github.com/cluster-8/eFinance#-prioritized-user-stories)
 * [Sprints Deliveries](https://github.com/cluster-8/eFinance#-sprints-deliveries)
 * [Product Backlog](https://github.com/cluster-8/eFinance#-product-backlog)
 * [Prototype](https://github.com/cluster-8/eFinance#-prototype)
@@ -42,6 +43,10 @@ At the end of development, the platform should have the following features:
 |   `Sprint 3`          | US04 - Fare Comparison                            | 04/24/2023 a 05/14/2023 | 🚧          | 🔒                |
 |   `Sprint 4`          | US05 - History of Tariff Variation and Trend      | 05/15/2023 a 06/04/2023 | 🚧          | 🔒                |
 |   `Solution Fair`     | Demonstration of results                          | 06/13/2023 a 06/14/2023 | 🚧          | 🔒                |
+
+## 🏅 Prioritized User Stories
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/prioritized-user-stories.jpeg)
 
 ## 🎁 Sprints Deliveries
 

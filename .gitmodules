@@ -1,9 +1,12 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/cluster-8/eFinance-front
+	branch = main
 [submodule "backend"]
 	path = backend
 	url = https://github.com/cluster-8/eFinance-api
+	branch = main
 [submodule "odata-scrapper"]
 	path = odata-scrapper
 	url = https://github.com/cluster-8/eFinance-odata-scrapper
+	branch = main

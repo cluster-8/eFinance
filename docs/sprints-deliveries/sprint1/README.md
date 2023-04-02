@@ -47,7 +47,8 @@ The image below shows the [**Product Backlog**]() items in order of priority ref
 ### 🪙 Service Fee Panel
 
 #### 🖥️ Frontend
-![]()
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/service-fee-panel.gif)
 
 #### ⚙️ Backend
 

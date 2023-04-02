@@ -33,17 +33,20 @@ At the end of development, the platform should have the following features:
 
 ## 📅 Planning
 
-Access the items delivered in each stage of project development:
-
 | Sprints               |                   Deliverables                    |          Date           | Status      | Access Link       |
 | :-------------------: | :-----------------------------------------------: | :---------------------: | :--------:  | :---------------: |
 |   `Kik-off`           | Knowing the challenge                             | 02/13/2023 a 03/03/2023 | ✅          | 🚩                |
-|   `Sprint 1`          | US01 - Service Fee Panel                          | 03/13/2023 a 04/02/2023 | ✅          | [🔗 Code]()       |
+|   `Sprint 1`          | US01 - Service Fee Panel                          | 03/13/2023 a 04/02/2023 | ✅          | [🔗 Click here](https://github.com/cluster-8/eCidadao/blob/Sprint-1/README.md)       |
 |   `Sprint 2`          | US02 - Ranking of Financial Instituitions e US03 - Top 5 Lowest Rates | 04/03/2023 a 04/23/2023 | 👨‍💻     | 🔒 |    
 |   `Sprint 3`          | US04 - Fare Comparison                            | 04/24/2023 a 05/14/2023 | 🚧          | 🔒                |
 |   `Sprint 4`          | US05 - History of Tariff Variation and Trend      | 05/15/2023 a 06/04/2023 | 🚧          | 🔒                |
 |   `Solution Fair`     | Demonstration of results                          | 06/13/2023 a 06/14/2023 | 🚧          | 🔒                |
 
+## 🎁 Sprints Deliveries
+
+Access the items delivered in each stage of project development:
+
+* [Sprint 1: US01 - Service Fee Panel](https://github.com/cluster-8/eCidadao/blob/Sprint-1/README.md)
 
 ## 📃 Product Backlog
 
@@ -51,7 +54,7 @@ Access the items delivered in each stage of project development:
 
 ## 💻 Protótipo
 
-* [Figma Prototype access link]()
+* [Figma Prototype access link](https://www.figma.com/proto/NomgcHgPjuGxlI8yZCOrYx/API-6?node-id=225-2&scaling=min-zoom&page-id=0%3A1)
 
 ## 📃 Códigos
 

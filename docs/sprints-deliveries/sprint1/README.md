@@ -48,4 +48,4 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 #### ⚙️ Backend
 
-![]()
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/backend-service-fee-panel.gif)

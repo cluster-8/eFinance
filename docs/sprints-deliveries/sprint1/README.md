@@ -16,25 +16,25 @@ The table below shows selected **User Stories** to be developed during Sprint 1:
 
 ### 📝 Sprint Backlog
 
-The image below shows the [**Product Backlog**]() items in order of priority referring to Sprint 1:
+The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFinance/blob/main/docs/v01_c4e_eFinance_-_Product_Backlog.pdf) items in order of priority referring to Sprint 1:
 
 ![]()
 
 ## 📂 Documentation
 
-* [Product Backlog access link]()
+* [Product Backlog access link](https://github.com/cluster-8/eFinance/blob/main/docs/v01_c4e_eFinance_-_Product_Backlog.pdf)
 
 ## 📉 Sprint Burndown
 
-![]()
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/sprint1-burndown.jpeg)
 
 ## 🖥️ Prototype
 
-* [Prototype access link]()
+* [Prototype access link](https://www.figma.com/proto/NomgcHgPjuGxlI8yZCOrYx/API-6?node-id=225-2&scaling=min-zoom&page-id=0%3A1)
 
 ## 🎲 Database Modeling
 
-* [Database modeling access link]()
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/efinance-database-modeling.png)
 
 ## 📃 Codes
 

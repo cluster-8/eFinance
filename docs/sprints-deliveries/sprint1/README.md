@@ -2,6 +2,17 @@
 
 Below are all items produced during Sprint 1 as previously established through planning:
 
+## 📑 Table of Contents
+
+* [User Stories](https://github.com/cluster-8/eFinance#-user-stories)
+* [Sprint backlog](https://github.com/cluster-8/eFinance#-sprint-backlog)
+* [Documentation](https://github.com/cluster-8/eFinance#-documentation)
+* [Prototype](https://github.com/cluster-8/eFinance#-prototype)
+* [Codes](https://github.com/cluster-8/eFinance#-codes)
+* [Sprint Burndown](https://github.com/cluster-8/eFinance#-sprint-burndown)
+* [Database Modeling](https://github.com/cluster-8/eFinance#-database-modeling)
+* [Implemented Funcionalities](https://github.com/cluster-8/eFinance#-implemented-funcionalities)
+
 ## 👤 User Stories
 
 The table below shows selected **User Stories** to be developed during Sprint 1:
@@ -44,7 +55,7 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 #### 🖥️ Frontend
 
-![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/service-fee-panel.gif)
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/frontend-service-fee-panel.gif)
 
 #### ⚙️ Backend
 

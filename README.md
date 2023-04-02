@@ -52,7 +52,9 @@ At the end of development, the platform should have the following features:
 
 Access the items delivered in each stage of project development:
 
-* [Sprint 1: US01 - Service Fee Panel](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint1)
+### Sprint 1
+
+* [US01 - Service Fee Panel](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint1)
 
 ## 📃 Product Backlog
 

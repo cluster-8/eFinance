@@ -5,6 +5,7 @@
 * [Challenge](https://github.com/cluster-8/eFinance#-challenge)
 * [Project](https://github.com/cluster-8/eFinance#-project)
 * [Planning](https://github.com/cluster-8/eFinance#-planning)
+* [Sprints Deliveries](https://github.com/cluster-8/eFinance#-sprints-deliveries)
 * [Product Backlog](https://github.com/cluster-8/eFinance#-product-backlog)
 * [Prototype](https://github.com/cluster-8/eFinance#-prototype)
 * [Codes](https://github.com/cluster-8/eFinance#-codes)
@@ -56,7 +57,7 @@ Access the items delivered in each stage of project development:
 
 * [Figma Prototype access link](https://www.figma.com/proto/NomgcHgPjuGxlI8yZCOrYx/API-6?node-id=225-2&scaling=min-zoom&page-id=0%3A1)
 
-## 📃 Códigos
+## 📃 Codes
 
 * [Frontend Code access link](https://github.com/cluster-8/eFinance-front)
 * [Backend Code access link](https://github.com/cluster-8/eFinance-api)

@@ -19,17 +19,18 @@ The table below shows selected **User Stories** to be developed during Sprint 1:
 
 | ID    | Priority | User Story                                                                                           | Funcionalities                                                                                                       |
 | ----- | ---------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| US_01 | Essential | As a user, I would like to view the rates for services offered by financial institutions to individuals and companies on a panel. | 1. When selecting the financial institution and the type of service, the application must present the services and their respective prices. By default, the selected type will be for Individuals; |
+| US_02 | Essential | As a user, I would like to view a Financial Instituitions Rank. | 1. When selecting the type of service and type of rank (higher or lower tariffs based on it mean value), the application must present the Financial Instituitions Rank. By default, the selected service type will be "All"; |
+| US_03 | Essential | As a user, I would like to view the Top 5 Financial Instituitions by Service. | 1. When selecting the type of service, the application must present the services that matches selected type, when selecting the service, the application must present the top 5 financial instituitions with lower tariffs for the selected service, when selecting the final date, the application must present the top 5 financial instituitions until that date. By default, the selected date will be the current date and the service type will be "All"; |
 
 ## 📝 Sprint Backlog
 
-The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFinance/blob/main/docs/v01_c4e_eFinance_-_Product_Backlog.pdf) items in order of priority referring to Sprint 1:
+The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFinance/blob/main/docs/) items in order of priority referring to Sprint 1:
 
-![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/user-stories-sprint1.jpeg)
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/)
 
 ## 📂 Documentation
 
-* [Product Backlog access link](https://github.com/cluster-8/eFinance/blob/main/docs/v01_c4e_eFinance_-_Product_Backlog.pdf)
+* [Product Backlog access link](https://github.com/cluster-8/eFinance/blob/main/docs/)
 
 ## 🖥️ Prototype
 
@@ -52,13 +53,13 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 * [Repository](https://github.com/cluster-8/eFinance-odata-scrapper)
 * [Release v1.0.0]()
 
-## 📉 Sprint Burndown
+<!-- ## 📉 Sprint Burndown
 
-![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/sprint1-burndown.jpeg)
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/) -->
 
 ## 🎲 Database Modeling
 
-![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/efinance-database-modeling.png)
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/database-model-sprint-2.png)
 
 ## 💫 Implemented Funcionalities
 
@@ -66,22 +67,24 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 #### 🧑‍💼 Higher and Lower Tariffs Rank for Physical Services
 
-![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/)
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/maiores-menores-pf.gif)
 
 #### 🏢 Higher and Lower Tariffs Rank for Juridical Services
 
-![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/)
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/maiores-menores-pj.gif)
 
 #### 🧑‍💼 🏢 Higher and Lower Tariffs Rank for All Services
 
-![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/)
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/maiores-menores-todos.gif)
 
 ### 🥇 Top 5 Financial Instituitions by Service
 
-#### Top 5
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/top5.gif)
 
-![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/)
+### 💎 Improvements on Service Fee Panel
 
-### Improvements on Service Fee Panel
+* Addition of Minimum Value
 
-![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/)
+* Addition of ilustrative image for no data displayed cases
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/melhorias-sprint2.gif)

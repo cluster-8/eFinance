@@ -82,7 +82,7 @@ Access the items delivered in each stage of project development:
 
 * [eFinance-api-v1.1.0](https://github.com/cluster-8/eFinance-api/releases/tag/v1.1.0)
 
-* [eFinance-odata-scrapper](https://github.com/cluster-8/eFinance-odata-scrapper/releases/tag/v1.1.0)
+* [eFinance-odata-scrapper-v1.1.0](https://github.com/cluster-8/eFinance-odata-scrapper/releases/tag/v1.1.0)
 
 ## 🛠 Technologies
 

@@ -76,7 +76,7 @@ Access the items delivered in each stage of project development:
 * [Backend Code access link](https://github.com/cluster-8/eFinance-api)
 * [OpenData Scrapper Code access link](https://github.com/cluster-8/eFinance-odata-scrapper)
 
-## Latest release
+## 🎁 Latest releases
 
 * [eFinance-front-v1.1.0](https://github.com/cluster-8/eFinance-front/releases/tag/v1.1.0)
 

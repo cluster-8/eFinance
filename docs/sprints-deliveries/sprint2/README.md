@@ -72,9 +72,9 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 * [Repository](https://github.com/cluster-8/eFinance-odata-scrapper)
 * [Release v1.1.0]()
 
-<!-- ## 📉 Sprint Burndown
+## 📉 Sprint Burndown
 
-![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/) -->
+[Burndown access link](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/)
 
 ## 💫 Implemented Funcionalities
 

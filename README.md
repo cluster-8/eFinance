@@ -39,8 +39,8 @@ At the end of development, the platform should have the following features:
 | :-------------------: | :-----------------------------------------------: | :---------------------: | :--------:  | :---------------: |
 |   `Kik-off`           | Knowing the challenge                             | 02/13/2023 a 03/03/2023 | ✅          | 🚩                |
 |   `Sprint 1`          | US01 - Service Fee Panel                          | 03/13/2023 a 04/02/2023 | ✅          | [🔗 Click here](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint1)       |
-|   `Sprint 2`          | US02 - Ranking of Financial Instituitions e US03 - Top 5 Lowest Rates | 04/03/2023 a 04/23/2023 | 👨‍💻     | 🔒 |    
-|   `Sprint 3`          | US04 - Fare Comparison                            | 04/24/2023 a 05/14/2023 | 🚧          | 🔒                |
+|   `Sprint 2`          | US02 - Ranking of Financial Instituitions e US03 - Top 5 Financial Instituitions | 04/03/2023 a 04/23/2023 | ✅     | [🔗 Click here](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint2) |    
+|   `Sprint 3`          | US04 - Fare Comparison                            | 04/24/2023 a 05/14/2023 | 👨‍💻          | 🔒                |
 |   `Sprint 4`          | US05 - History of Tariff Variation and Trend      | 05/15/2023 a 06/04/2023 | 🚧          | 🔒                |
 |   `Solution Fair`     | Demonstration of results                          | 06/13/2023 a 06/14/2023 | 🚧          | 🔒                |
 
@@ -56,9 +56,15 @@ Access the items delivered in each stage of project development:
 
 * [US01 - Service Fee Panel](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint1)
 
+### Sprint 2
+
+* [US02 - Ranking of Financial Instituitions](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint2)
+
+* [Top 5 Financial Instituitions](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint2)
+
 ## 📃 Product Backlog
 
-* [PDF Document access link](https://github.com/cluster-8/eFinance/blob/main/docs/v01_c4e_eFinance_-_Product_Backlog.pdf)
+* [PDF Document access link](https://github.com/cluster-8/eFinance/blob/main/docs/v02_ad2_eFinance_-_Product_Backlog.pdf)
 
 ## 💻 Protótipo
 
@@ -87,4 +93,5 @@ For the construction of the project, the following technologies are being used:
 | **Eduarda Giudice**           | _Scrum Master_     | [![](https://bit.ly/3f9Xo0P)](https://github.com/EduardaGiudice)    | ![](https://bit.ly/2P1ZogM)     |
 | **Guilherme Garcia**         | _Developer Team_   | [![](https://bit.ly/3f9Xo0P)](https://github.com/guilherme4garcia) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/guilherme-garcia-dev?original_referer=https%3A%2F%2Fgithub.com%2F) |
 | **Hariel Thums**      | _Developer Team_ | [![](https://bit.ly/3f9Xo0P)](https://github.com/HarielThums)       | [![](https://bit.ly/2P1ZogM)](https://bit.ly/3f9bjUH)                                             |
+| **Matheus Emboaba**      | _Developer Team_ | [![](https://bit.ly/3f9Xo0P)](https://github.com/MatheusEmboabaTeteu)       | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/matheus-emboaba-a21970236)                                             |
 | **Vinícius Oliveira** | _Product Owner_    | [![](https://bit.ly/3f9Xo0P)](https://github.com/vinicius-hso)      | [![](https://bit.ly/2P1ZogM)](https://bit.ly/3fdl0BE)                                             |

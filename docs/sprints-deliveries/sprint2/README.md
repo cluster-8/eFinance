@@ -60,21 +60,21 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 ### Frontend
 
 * [Repository](https://github.com/cluster-8/eFinance-front)
-* [Release v1.1.0]()
+* [Release v1.1.0](https://github.com/cluster-8/eFinance-front/releases/tag/v1.1.0)
 
 ### Backend
 
 * [Repository](https://github.com/cluster-8/eFinance-api)
-* [Release v1.1.0]()
+* [Release v1.1.0](https://github.com/cluster-8/eFinance-api/releases/tag/v1.1.0)
 
 ### Open Data Scrapper
 
 * [Repository](https://github.com/cluster-8/eFinance-odata-scrapper)
-* [Release v1.1.0]()
+* [Release v1.1.0](https://github.com/cluster-8/eFinance-odata-scrapper/releases/tag/v1.1.0)
 
 ## 📉 Sprint Burndown
 
-[Burndown access link](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/)
+[Burndown access link](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/sprint-2-burndown.jpeg)
 
 ## 💫 Implemented Funcionalities
 

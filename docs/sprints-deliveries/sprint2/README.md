@@ -6,11 +6,13 @@ Below are all items produced during Sprint 1 as previously established through p
 
 * [User Stories](https://github.com/cluster-8/eFinance#-user-stories)
 * [Sprint backlog](https://github.com/cluster-8/eFinance#-sprint-backlog)
-* [Documentation](https://github.com/cluster-8/eFinance#-documentation)
-* [Prototype](https://github.com/cluster-8/eFinance#-prototype)
+* [DoR](https://github.com/cluster-8/eFinance#-dor)
+    * [Documentation](https://github.com/cluster-8/eFinance#-documentation)
+    * [Database Modeling](https://github.com/cluster-8/eFinance#-database-modeling)
+    * [Prototype](https://github.com/cluster-8/eFinance#-prototype)
+* [DoD](https://github.com/cluster-8/eFinance#-dod)
 * [Codes](https://github.com/cluster-8/eFinance#-codes)
 * [Sprint Burndown](https://github.com/cluster-8/eFinance#-sprint-burndown)
-* [Database Modeling](https://github.com/cluster-8/eFinance#-database-modeling)
 * [Implemented Funcionalities](https://github.com/cluster-8/eFinance#-implemented-funcionalities)
 
 ## 👤 User Stories
@@ -28,13 +30,30 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/user-stories-sprint2.jpeg)
 
-## 📂 Documentation
+## 📜 DoR (Definition of Ready)
+
+### 📂 Documentation
 
 * [Product Backlog access link](https://github.com/cluster-8/eFinance/blob/main/docs/)
 
-## 🖥️ Prototype
+### 🎲 Database Modeling
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/database-model-sprint-2.png)
+
+### 🖥️ Prototype
 
 * [Prototype access link](https://www.figma.com/proto/NomgcHgPjuGxlI8yZCOrYx/API-6?node-id=225-2&scaling=min-zoom&page-id=0%3A1)
+
+
+## 📜 DoD (Definition of Done)
+
+* **US02 - Financial Instituitions Rank**
+
+    * Application must present a rank of financial instituitions based on score (tariffs mean) by service type and rank type, lowest or highest values selected by user.
+
+* **US03 - Top 5 Lowest Rates**
+
+    * Application must present a top 5 lowest rates financial instituitions by service and date selected by user.
 
 ## 📃 Codes
 
@@ -56,10 +75,6 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 <!-- ## 📉 Sprint Burndown
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/) -->
-
-## 🎲 Database Modeling
-
-![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/database-model-sprint-2.png)
 
 ## 💫 Implemented Funcionalities
 

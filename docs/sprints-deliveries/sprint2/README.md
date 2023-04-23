@@ -24,7 +24,7 @@ The table below shows selected **User Stories** to be developed during Sprint 1:
 
 ## 📝 Sprint Backlog
 
-The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFinance/blob/main/docs/) items in order of priority referring to Sprint 1:
+The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFinance/blob/main/docs/v02_ad2_eFinance_-_Product_Backlog.pdf) items in order of priority referring to Sprint 1:
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/)
 

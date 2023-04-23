@@ -1,6 +1,6 @@
 # 🏁 Sprint 2
 
-Below are all items produced during Sprint 1 as previously established through planning:
+Below are all items produced during Sprint 2 as previously established through planning:
 
 ## 📑 Table of Contents
 

@@ -15,7 +15,7 @@ Below are all items produced during Sprint 1 as previously established through p
 
 ## 👤 User Stories
 
-The table below shows selected **User Stories** to be developed during Sprint 1:
+The table below shows selected **User Stories** to be developed during Sprint 2:
 
 | ID    | Priority | User Story                                                                                           | Funcionalities                                                                                                       |
 | ----- | ---------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -24,9 +24,9 @@ The table below shows selected **User Stories** to be developed during Sprint 1:
 
 ## 📝 Sprint Backlog
 
-The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFinance/blob/main/docs/v02_ad2_eFinance_-_Product_Backlog.pdf) items in order of priority referring to Sprint 1:
+The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFinance/blob/main/docs/v02_ad2_eFinance_-_Product_Backlog.pdf) items in order of priority referring to Sprint 2:
 
-![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/)
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/user-stories-sprint2.jpeg)
 
 ## 📂 Documentation
 
@@ -41,17 +41,17 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 ### Frontend
 
 * [Repository](https://github.com/cluster-8/eFinance-front)
-* [Release v1.0.0]()
+* [Release v1.1.0]()
 
 ### Backend
 
 * [Repository](https://github.com/cluster-8/eFinance-api)
-* [Release v1.0.0]()
+* [Release v1.1.0]()
 
 ### Open Data Scrapper
 
 * [Repository](https://github.com/cluster-8/eFinance-odata-scrapper)
-* [Release v1.0.0]()
+* [Release v1.1.0]()
 
 <!-- ## 📉 Sprint Burndown
 

@@ -21,7 +21,7 @@ The table below shows selected **User Stories** to be developed during Sprint 3:
 
 | ID    | Priority | User Story                                                                                           | Funcionalities                                                                                                       |
 | ----- | ---------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| US_03 | Important | As a user, I would like to view and compare a certain selected service fee by bank. | 1. When selecting a service, the user must then select the financial institutions to be compared. The user can select more than one service to compare, but can only select two financial institutions at a time.; |
+| US_04 | Important | As a user, I would like to view and compare a certain selected service fee by bank. | 1. When selecting a service, the user must then select the financial institutions to be compared. The user can select more than one service to compare, but can only select two financial institutions at a time.; |
 
 ## 📝 Sprint Backlog
 

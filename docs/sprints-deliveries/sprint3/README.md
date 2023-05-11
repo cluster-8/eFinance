@@ -33,7 +33,7 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 ### 📂 Documentation
 
-* [Product Backlog access link](https://github.com/cluster-8/eFinance/blob/main/docs/)
+* [Product Backlog access link](https://github.com/cluster-8/eFinance/blob/main/docs/v03_dbf_eFinance_-_Product_Backlog.pdf)
 
 ### 🎲 Database Modeling
 

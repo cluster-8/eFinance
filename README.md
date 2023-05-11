@@ -62,9 +62,14 @@ Access the items delivered in each stage of project development:
 
 * [US03 - Top 5 Financial Instituitions](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint2)
 
+
+### Sprint 3
+
+* [US04 - Fare Comparison](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint3)
+
 ## 📃 Product Backlog
 
-* [PDF Document access link](https://github.com/cluster-8/eFinance/blob/main/docs/v02_ad2_eFinance_-_Product_Backlog.pdf)
+* [PDF Document access link](https://github.com/cluster-8/eFinance/blob/main/docs/v03_dbf_eFinance_-_Product_Backlog.pdf)
 
 ## 💻 Prototype
 
@@ -78,11 +83,11 @@ Access the items delivered in each stage of project development:
 
 ## 🎁 Latest releases
 
-* [eFinance-front-v1.1.0](https://github.com/cluster-8/eFinance-front/releases/tag/v1.1.0)
+* [eFinance-front-v1.2.0](https://github.com/cluster-8/eFinance-front/releases/tag/v1.2.0)
 
-* [eFinance-api-v1.1.0](https://github.com/cluster-8/eFinance-api/releases/tag/v1.1.0)
+* [eFinance-api-v1.2.0](https://github.com/cluster-8/eFinance-api/releases/tag/v1.2.0)
 
-* [eFinance-odata-scrapper-v1.1.0](https://github.com/cluster-8/eFinance-odata-scrapper/releases/tag/v1.1.0)
+* [eFinance-odata-scrapper-v1.2.0](https://github.com/cluster-8/eFinance-odata-scrapper/releases/tag/v1.2.0)
 
 ## 🛠 Technologies
 

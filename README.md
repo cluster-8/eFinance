@@ -40,8 +40,8 @@ At the end of development, the platform should have the following features:
 |   `Kik-off`           | Knowing the challenge                             | 02/13/2023 a 03/03/2023 | ✅          | 🚩                |
 |   `Sprint 1`          | US01 - Service Fee Panel                          | 03/13/2023 a 04/02/2023 | ✅          | [🔗 Click here](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint1)       |
 |   `Sprint 2`          | US02 - Ranking of Financial Instituitions e US03 - Top 5 Lowest Rates | 04/03/2023 a 04/23/2023 | ✅     | [🔗 Click here](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint2) |    
-|   `Sprint 3`          | US04 - Fare Comparison                            | 04/24/2023 a 05/14/2023 | 👨‍💻          | 🔒                |
-|   `Sprint 4`          | US05 - History of Tariff Variation and Trend      | 05/15/2023 a 06/04/2023 | 🚧          | 🔒                |
+|   `Sprint 3`          | US04 - Fare Comparison                            | 04/24/2023 a 05/14/2023 | ✅          | [🔗 Click here](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint3)       |
+|   `Sprint 4`          | US05 - History of Tariff Variation and Trend      | 05/15/2023 a 06/04/2023 | 👨‍💻          | 🔒                |
 |   `Solution Fair`     | Demonstration of results                          | 06/13/2023 a 06/14/2023 | 🚧          | 🔒                |
 
 ## 🏅 Prioritized User Stories

@@ -73,7 +73,7 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 ## 📉 Sprint Burndown
 
-[Burndown access link](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/sprint-3-burndown.jpeg)
+[Burndown access link](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/sprint-3-burndown.png)
 
 ## 💫 Implemented Funcionalities
 
@@ -93,15 +93,15 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/train-val-test-data.png)
 
-#### Training Predictions
+#### Training Predictions and Observations
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/train-predictions.png)
 
-#### Validation Predictions
+#### Validation Predictions and Observations
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/validation-predictions.png)
 
-#### Testing Predictions
+#### Testing Predictions and Observations
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/testing-predictions.png)
 

@@ -67,6 +67,8 @@ Access the items delivered in each stage of project development:
 
 * [US04 - Fare Comparison](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint3)
 
+* [Preliminar Prediction Machine Learning Model](https://github.com/cluster-8/eFinance/tree/main/docs/sprints-deliveries/sprint3)
+
 ## 📃 Product Backlog
 
 * [PDF Document access link](https://github.com/cluster-8/eFinance/blob/main/docs/v03_dbf_eFinance_-_Product_Backlog.pdf)
@@ -89,15 +91,26 @@ Access the items delivered in each stage of project development:
 
 * [eFinance-odata-scrapper-v1.2.0](https://github.com/cluster-8/eFinance-odata-scrapper/releases/tag/v1.2.0)
 
+* [eFinance-ml-model-v1.0.0](https://github.com/cluster-8/eFinance-ml-model/releases/tag/v1.0.0)
+
 ## 🛠 Technologies
 
-For the construction of the project, the following technologies are being used:
+For the construction of the web application, the following technologies are being used:
 
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+For the construction of the machine learning model
+
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   
 ## 👨‍💻 Team
 

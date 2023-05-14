@@ -68,12 +68,12 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 ### Machine Learning Model
 
-- [Repository]()
-- [Release v1.0.0]()
+- [Repository](https://github.com/cluster-8/eFinance-ml-model)
+- [Release v1.0.0](https://github.com/cluster-8/eFinance-ml-model/releases/tag/v1.0.0)
 
 ## 📉 Sprint Burndown
 
-[Burndown access link]()
+[Burndown access link](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/sprint-3-burndown.jpeg)
 
 ## 💫 Implemented Funcionalities
 
@@ -85,26 +85,26 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 [Code access link](https://github.com/cluster-8/eFinance-ml-model)
 
-* Raw data
+#### Raw data
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/raw-data.png)
 
-* Training, validation and testing data
+#### Training, validation and testing data
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/train-val-test-data.png)
 
-* Training Predictions
+#### Training Predictions
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/train-predictions.png)
 
-* Validation Predictions
+#### Validation Predictions
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/validation-predictions.png)
 
-* Testing Predictions
+#### Testing Predictions
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/testing-predictions.png)
 
-* Training, validations and testing results
+#### Training, validations and testing results
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/train-val-test-results.png)

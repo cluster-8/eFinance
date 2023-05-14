@@ -82,6 +82,7 @@ Access the items delivered in each stage of project development:
 * [Frontend Code access link](https://github.com/cluster-8/eFinance-front)
 * [Backend Code access link](https://github.com/cluster-8/eFinance-api)
 * [OpenData Scrapper Code access link](https://github.com/cluster-8/eFinance-odata-scrapper)
+* [Machine Learning Model Code access link](https://github.com/cluster-8/eFinance-ml-model)
 
 ## 🎁 Latest releases
 

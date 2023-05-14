@@ -77,11 +77,34 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 ## 💫 Implemented Funcionalities
 
-### Fare Comparison
+### 📊 Fare Comparison
 
 ![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/comparator.gif)
 
-### Initial Machine Learning model for Forecasting
+### 🤖 Preliminar Machine Learning model for Service fee Forecasting
 
-![]()
+[Code access link](https://github.com/cluster-8/eFinance-ml-model)
 
+* Raw data
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/raw-data.png)
+
+* Training, validation and testing data
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/train-val-test-data.png)
+
+* Training Predictions
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/train-predictions.png)
+
+* Validation Predictions
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/validation-predictions.png)
+
+* Testing Predictions
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/testing-predictions.png)
+
+* Training, validations and testing results
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/train-val-test-results.png)

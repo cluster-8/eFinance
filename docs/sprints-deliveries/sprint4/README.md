@@ -21,7 +21,7 @@ The table below shows selected **User Stories** to be developed during Sprint 4:
 
 | ID    | Priority  | User Story                                                                          | Funcionalities                                                                                                                                                                                                     |
 | ----- | --------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| US_05 | Important | As a user, I would like to view the average price variation of a tariff with a trend indication. | 1. The user selects the institution and the service to be viewed, the application displays a time series graph with the variation in the fee value with a trend calculated by the prediction model. |
+| US_05 | Essential | As a user, I would like to view the average price variation of a tariff with a trend indication. | 1. The user selects the institution and the service to be viewed, the application displays a time series graph with the variation in the fee value with a trend calculated by the prediction model. |
 
 ## 📝 Sprint Backlog
 

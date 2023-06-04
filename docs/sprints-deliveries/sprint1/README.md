@@ -4,14 +4,14 @@ Below are all items produced during Sprint 1 as previously established through p
 
 ## 📑 Table of Contents
 
-* [User Stories](https://github.com/cluster-8/eFinance#-user-stories)
-* [Sprint backlog](https://github.com/cluster-8/eFinance#-sprint-backlog)
-* [Documentation](https://github.com/cluster-8/eFinance#-documentation)
-* [Prototype](https://github.com/cluster-8/eFinance#-prototype)
-* [Codes](https://github.com/cluster-8/eFinance#-codes)
-* [Sprint Burndown](https://github.com/cluster-8/eFinance#-sprint-burndown)
-* [Database Modeling](https://github.com/cluster-8/eFinance#-database-modeling)
-* [Implemented Funcionalities](https://github.com/cluster-8/eFinance#-implemented-funcionalities)
+* [User Stories](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-user-stories)
+* [Sprint backlog](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-sprint-backlog)
+* [Documentation](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-documentation)
+* [Prototype](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-prototype)
+* [Codes](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-codes)
+* [Sprint Burndown](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-sprint-burndown)
+* [Database Modeling](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-database-modeling)
+* [Implemented Funcionalities](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-implemented-funcionalities)
 
 ## 👤 User Stories
 

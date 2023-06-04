@@ -4,16 +4,16 @@ Below are all items produced during Sprint 2 as previously established through p
 
 ## 📑 Table of Contents
 
-* [User Stories](https://github.com/cluster-8/eFinance#-user-stories)
-* [Sprint backlog](https://github.com/cluster-8/eFinance#-sprint-backlog)
-* [DoR](https://github.com/cluster-8/eFinance#-dor)
-    * [Documentation](https://github.com/cluster-8/eFinance#-documentation)
-    * [Database Modeling](https://github.com/cluster-8/eFinance#-database-modeling)
-    * [Prototype](https://github.com/cluster-8/eFinance#-prototype)
-* [DoD](https://github.com/cluster-8/eFinance#-dod)
-* [Codes](https://github.com/cluster-8/eFinance#-codes)
-* [Sprint Burndown](https://github.com/cluster-8/eFinance#-sprint-burndown)
-* [Implemented Funcionalities](https://github.com/cluster-8/eFinance#-implemented-funcionalities)
+* [User Stories](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint2/README.md#-user-stories)
+* [Sprint backlog](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint2/README.md#-sprint-backlog)
+* [DoR](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint2/README.md#-dor)
+    * [Documentation](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint2/README.md#-documentation)
+    * [Database Modeling](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint2/README.md#-database-modeling)
+    * [Prototype](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint2/README.md#-prototype)
+* [DoD](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint2/README.md#-dod)
+* [Codes](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint2/README.md#-codes)
+* [Sprint Burndown](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint2/README.md#-sprint-burndown)
+* [Implemented Funcionalities](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint2/README.md#-implemented-funcionalities)
 
 ## 👤 User Stories
 

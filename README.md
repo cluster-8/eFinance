@@ -2,6 +2,7 @@
 
 ## 📑 Table of Content
 
+* [Application Overview](https://github.com/cluster-8/eFinance#-application-overview)
 * [Challenge](https://github.com/cluster-8/eFinance#-challenge)
 * [Project](https://github.com/cluster-8/eFinance#-project)
 * [Planning](https://github.com/cluster-8/eFinance#-planning)
@@ -12,6 +13,46 @@
 * [Codes](https://github.com/cluster-8/eFinance#-codes)
 * [Technologies](https://github.com/cluster-8/eFinance#-technologies)
 * [Team](https://github.com/cluster-8/eFinance#-team)
+
+## Application Overview
+
+### 🪙 Service Fee Panel
+
+When selecting the financial institution and the type of service, the application presents the services and their respectives prices. By default, the selected type will be for Individuals;
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/melhorias-sprint2.gif)
+
+#### 🧑‍💼 Higher and Lower Tariffs Rank for Physical Services
+
+When selecting the type of service and type of rank (higher or lower tariffs based on it mean value), the application presents the Financial Instituitions Rank. By default, the selected service type will be "All"
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/maiores-menores-pf.gif)
+
+#### 🏢 Higher and Lower Tariffs Rank for Juridical Services
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/maiores-menores-pj.gif)
+
+#### 🧑‍💼 🏢 Higher and Lower Tariffs Rank for All Services
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/maiores-menores-todos.gif)
+
+### 🥇 Top 5 Financial Instituitions by Service
+
+When selecting the type of service, the application presents the services that matches selected type, when selecting the service, the application presents the top 5 financial instituitions with lower tariffs for the selected service, when selecting the final date, the application presents the top 5 financial instituitions until that date. By default, the selected date will be the current date and the service type will be "All"
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/top5.gif)
+
+### 📊 Fare Comparison
+
+When selecting a service, the user must then select the financial institutions to be compared. The user can select more than one service to compare, but can only select two financial institutions at a time.
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/comparator.gif)
+
+### 🤖 History Tariff Variation and Trend
+
+The user selects the institution and the service to be viewed, the application displays a time series graph with the variation in the fee value with a trend calculated by the prediction model.
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/history-variation-and-prediction.gif)
 
 ## 📌 Challenge
 

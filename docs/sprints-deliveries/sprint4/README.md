@@ -88,7 +88,7 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 ### 📂 Logging System
 
-[](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/log-system.gif)
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/log-system.gif)
 
 ### 📉 Application Metrics
 

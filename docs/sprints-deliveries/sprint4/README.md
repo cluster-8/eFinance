@@ -35,9 +35,6 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 - [Product Backlog access link](https://github.com/cluster-8/eFinance/blob/main/docs/v04_c3a_eFinance_-_Product_Backlog.pdf)
 
-### 🎲 Database Modeling
-
-![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/database-model-sprint-4.png)
 
 ### 🖥️ Prototype
 
@@ -46,6 +43,10 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 ### 🤖 Machine Learning Model
 
 - [Machine Learning DoR access link](https://github.com/cluster-8/eFinance-ml-model/blob/main/docs/DOR.md)
+
+### 🎲 Database Modeling
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/imgs/database-model-sprint-4.png)
 
 ## 📜 DoD (Definition of Done)
 

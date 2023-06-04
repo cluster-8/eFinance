@@ -75,7 +75,7 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 ### Machine Learning Model
 
 - [Repository](https://github.com/cluster-8/eFinance-ml-model)
-- [Release v1.0.0](https://github.com/cluster-8/eFinance-ml-model/releases/tag/v1.0.0)
+- [Release v1.1.0](https://github.com/cluster-8/eFinance-ml-model/releases/tag/v1.0.0)
 
 ## 📉 Sprint Burndown
 
@@ -93,4 +93,10 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 ### 📉 Application Metrics
 
-[]()
+eFinance API metrics system from Heroku
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/api-metrics.gif)
+
+eFinance Scrapper metrics system from Heroku
+
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/scrapper-metrics.gif)

@@ -84,11 +84,11 @@ The image below shows the [**Product Backlog**](https://github.com/cluster-8/eFi
 
 ### 🤖 History Tariff Variation and Trend
 
-![]()
+![](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/history-variation-and-prediction.gif)
 
 ### 📂 Logging System
 
-[]()
+[](https://github.com/cluster-8/eFinance/blob/main/docs/gifs/log-system.gif)
 
 ### 📉 Application Metrics
 

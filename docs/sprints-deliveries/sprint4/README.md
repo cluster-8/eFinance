@@ -4,17 +4,17 @@ Below are all items produced during Sprint 4 as previously established through p
 
 ## 📑 Table of Contents
 
-- [User Stories](https://github.com/cluster-8/eFinance#-user-stories)
-- [Sprint backlog](https://github.com/cluster-8/eFinance#-sprint-backlog)
-- [DoR](https://github.com/cluster-8/eFinance#-dor)
-  - [Documentation](https://github.com/cluster-8/eFinance#-documentation)
-  - [Prototype](https://github.com/cluster-8/eFinance#-prototype)
-  - [Machine Learning Model DoR](https://github.com/cluster-8/eFinance#-machine-learning-model)
-  - [Database Modeling](https://github.com/cluster-8/eFinance#-database-modeling)
-- [DoD](https://github.com/cluster-8/eFinance#-dod)
-- [Codes](https://github.com/cluster-8/eFinance#-codes)
-- [Sprint Burndown](https://github.com/cluster-8/eFinance#-sprint-burndown)
-- [Implemented Funcionalities](https://github.com/cluster-8/eFinance#-implemented-funcionalities)
+- [User Stories](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint4/README.md#-user-stories)
+- [Sprint backlog](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint4/README.md#-sprint-backlog)
+- [DoR](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint4/README.md#-dor)
+  - [Documentation](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint4/README.md#-documentation)
+  - [Prototype](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint4/README.md#-prototype)
+  - [Machine Learning Model DoR](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint4/README.md#-machine-learning-model)
+  - [Database Modeling](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint4/README.md#-database-modeling)
+- [DoD](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint4/README.md#-dod)
+- [Codes](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint4/README.md#-codes)
+- [Sprint Burndown](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint4/README.md#-sprint-burndown)
+- [Implemented Funcionalities](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint4/README.md#-implemented-funcionalities)
 
 ## 👤 User Stories
 

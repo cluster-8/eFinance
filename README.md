@@ -135,13 +135,13 @@ Access the items delivered in each stage of project development:
 
 ## 🎁 Latest releases
 
-* [eFinance-front-v1.2.0](https://github.com/cluster-8/eFinance-front/releases/tag/v1.2.0)
+* [eFinance-front-v1.3.0](https://github.com/cluster-8/eFinance-front/releases/tag/v1.3.0)
 
-* [eFinance-api-v1.2.0](https://github.com/cluster-8/eFinance-api/releases/tag/v1.2.0)
+* [eFinance-api-v1.3.0](https://github.com/cluster-8/eFinance-api/releases/tag/v1.3.0)
 
-* [eFinance-odata-scrapper-v1.2.0](https://github.com/cluster-8/eFinance-odata-scrapper/releases/tag/v1.2.0)
+* [eFinance-odata-scrapper-v1.3.0](https://github.com/cluster-8/eFinance-odata-scrapper/releases/tag/v1.3.0)
 
-* [eFinance-ml-model-v1.0.0](https://github.com/cluster-8/eFinance-ml-model/releases/tag/v1.0.0)
+* [eFinance-ml-model-v1.1.0](https://github.com/cluster-8/eFinance-ml-model/releases/tag/v1.1.0)
 
 ## 🛠 Technologies
 
